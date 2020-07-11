@@ -38,6 +38,6 @@ My tutor, my instructor, the TAs, and w3schools.
 
 ## Links
 
-* App URL:
-* Github Repo: 
+* Github Repo: https://github.com/Waltrevino/README_Generator
+* Walkthrough video: https://drive.google.com/file/d/1jMqJVvYoKFAFU1Cd77l_kCfWOXn0Gddg/view
 
